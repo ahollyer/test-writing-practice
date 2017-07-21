@@ -1,3 +1,4 @@
+'use strict';
 var expect = require('chai').expect;
 
 const MyMath = require('../mymath');
